@@ -35,4 +35,4 @@ A lightweight tool with a clean interface for injecting DLL files into running p
 This tool is for educational purposes and legitimate software development only (debugging, modding, etc). Using it may violate terms of service for some applications. I'm not responsible for misuse.
 
 ## Special Thanks
-- [Dear ImGui](https://github.com/ocornut/imgui) for the user interface.# re4launcher
+- [Dear ImGui](https://github.com/ocornut/imgui) for the user interface.
