@@ -12,11 +12,18 @@ A lightweight tool with a clean interface for injecting DLL files into running p
 - Architecture compatibility detection (32/64-bit)
 - Recent DLL history
 
-## Usage
+## Usage (GUI Version)
 
 1. Select a target process
 2. Choose a DLL file
 3. Click "Inject DLL"
+
+## Alternate Usage: CLI Mode (Optional)
+
+Prefer command-line? Use the CLI version instead:  
+👉 [K-Injector (no-GUI)](https://github.com/kreedyk/simpleGUI-dll-injector/tree/no-gui)
+
+Same backend, just no interface. Useful for automation, scripting, or advanced users.
 
 ## Technical Info
 
