@@ -15,20 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DLL_Injector.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="src\main.cpp">
-      <Filter>Fichiers sources</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="resource.h">
-      <Filter>Fichiers d%27en-tête</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="k-injector.rc">
-      <Filter>Fichiers de ressources</Filter>
-    </ResourceCompile>
   </ItemGroup>
 </Project>
