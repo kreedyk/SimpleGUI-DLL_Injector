@@ -51,7 +51,7 @@ Same functionality, but easier to use visually.
 2. Note the index of your target process (e.g., 42)
 3. Inject your DLL:
    ```
-   k-injector -i 42 -d C:\path	o\mydll.dll
+   k-injector -i 42 -d C:\path\to\mydll.dll
    ```
 4. Use a recent DLL next time:
    ```
